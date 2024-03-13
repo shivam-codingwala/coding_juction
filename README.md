@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-6b77822aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-6b77822aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://fb.com/parjapati.superking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parjapati.superking" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/official_shivam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/official_shivam_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@shivamprajapati5031?si=pfxpijbao21c3t6n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@shivamprajapati5031?si=pfxpijbao21c3t6n" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/official_shivam_pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/official_shivam_pandit" height="30" width="40" /></a>
+<a href="https://youtube.com/@shivamprajapati5031?si=bfSJzYvV0t9iVNea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@shivamprajapati5031?si=bfSJzYvV0t9iVNea" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
