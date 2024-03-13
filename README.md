@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-codingwala&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-codingwala" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shivam kumar-6b77822aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/shivam-kumar-6b77822aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shivam kumar-6b77822aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/shivam kumar-6b77822aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](??utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me **shivamkr2924@gmail.com**
 
